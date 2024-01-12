@@ -1,0 +1,81 @@
+알고리즘 공부 꾸준히 IM은 쉽고 A형까지 목표로
+
+https://abit.ly/pb-document
+
+
+https://married-spot-253.notion.site/5fef18bbcd4b467fb8c7ed819250e1e8?v=d7d02b0f89684f7e8e5650572eb693e2
+
+git bash, vscode python
+
+vscode = 텍스트에디처 - 익스텐션을 이용해서 마치 ide처럼 사용
+런타임, ide
+pypy
+java -intelliJ
+C# - Visual Studio
+python > pycharm, 쥬피터노트북 (파이썬의 대표적 IDE)
+
+
+
+===================
+I = Interface - 대상을 제어하는 수단
+GUI(graphic user interface) <> TUI(text-잘안씀)
+			   CLI
+
+window OS interface
+GUI = 'Windows Shell'
+CLI = CMD(명령프롬프트), 'Power Shell'
+
+
+Linux OS의 interface
+GUI = GNOME
+CLI = "Bash" > bash에서 git을 주로 사용합니다(git bach라고 부름)
+
+윈도우 CLI를 두고 bash 쓰는이유 - 'tab' 자동완성(편하고 빨라서)
+
+=======================
+
+G : Generative : 생성전인
+=> 주어진 입력에 기반하여 새로운 데이터를 생성(보안성취약)
+ pre-tranied : 미리 학습된
+자연어 처리 작업에 사용되는 딥러닝 모델
+transformer : 어텐션 메커니즘 
+자연어 처리 작업에 사용되는 딥러닝 모델
+
+단점- 신뢰도 문제(헛소리)
+
+API : 두 소프트웨어가 서로 통신할 수 있게 하는 메커니즘
+API key? 클라이언트가 서버에게 데이터를 요청하는 수단
+api는 서버 개발자가 정함
+클라이언트 요청(API) - 서버응답(JSON)
+ 
+UI = 사용자와 소프트웨어간의 통신
+
+
+client=입력창   =>요청    서버       db
+	       <= 응답
+
+html(뼈대), css(Cascading Style Sheets, 살), js(Java Script, 로직)
+코드업,백준
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
